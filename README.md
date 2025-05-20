@@ -42,7 +42,7 @@ Projektā tiek izmantotas vairākas pielāgotas datu struktūras (funkcijas) dat
 1. **Programmas palaišana**  
    Palaidiet skriptu ar Python:  
    ```bash
-   python github_analyzer.py
+   python main.py
    ```
 
 2. **Galvenā izvēlne**  
