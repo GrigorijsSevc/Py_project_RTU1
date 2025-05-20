@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-token = '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'
+token = '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'
 
 headers = {
     'Authorization': f'token {token}'
