@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-token = ''######Enter your token here and your mother is wluha ebanaja
+token = ''######Enter your token here
 
 headers = {
     'Authorization': f'token {token}'
