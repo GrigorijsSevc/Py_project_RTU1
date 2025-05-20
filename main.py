@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-token = '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'
+token = ''######Enter your token here and your mother is wluha ebanaja
 
 headers = {
     'Authorization': f'token {token}'
